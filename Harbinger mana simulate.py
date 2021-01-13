@@ -7,7 +7,7 @@ LEVEL_2 = 30
 LEVEL_3 = 40
 LEVEL_4 = 50
 
-ROUND = 1000000
+ROUND = 10000000
 
 
 class Result:
